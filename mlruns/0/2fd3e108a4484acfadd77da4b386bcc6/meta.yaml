@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/MLOps_Project/mlruns/0/2fd3e108a4484acfadd77da4b386bcc6/artifacts
+end_time: 1717847255257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fd3e108a4484acfadd77da4b386bcc6
+run_name: incongruous-dog-647
+run_uuid: 2fd3e108a4484acfadd77da4b386bcc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717847239293
+status: 3
+tags: []
+user_id: any
